@@ -1,3 +1,3 @@
 This text complexifier application and GUI was written in Java for a software development course's final project. Due to dependence on a specific external library, we couldn't package the code into a remotely hosted app or .exe. Instead, all of our code and readme is linked here:
-
+ 
 https://github.com/wexnert/NLP-Nitro
